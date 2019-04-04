@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mapi/mapi.iml" filepath="$PROJECT_DIR$/mapi/mapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcommon/mcommon.iml" filepath="$PROJECT_DIR$/mcommon/mcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgenerator/mgenerator.iml" filepath="$PROJECT_DIR$/mgenerator/mgenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mlearn/mlearn.iml" filepath="$PROJECT_DIR$/../mlearn/mlearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmapper/mmapper.iml" filepath="$PROJECT_DIR$/mmapper/mmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpojo/mpojo.iml" filepath="$PROJECT_DIR$/mpojo/mpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mproject.iml" filepath="$PROJECT_DIR$/mproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mservice/mservice.iml" filepath="$PROJECT_DIR$/mservice/mservice.iml" />
+    </modules>
+  </component>
+</project>

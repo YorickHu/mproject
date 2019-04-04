@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mapi" />
+        <module name="mcommon" />
+        <module name="mgenerator" />
+        <module name="mlearn" />
+        <module name="mmapper" />
+        <module name="mpojo" />
+        <module name="mservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="common" target="1.8" />
+      <module name="mapi" target="1.8" />
+      <module name="mcommon" target="1.8" />
+      <module name="mgenerator" target="1.8" />
+      <module name="mlearn" target="1.5" />
+      <module name="mmapper" target="1.8" />
+      <module name="mpojo" target="1.8" />
+      <module name="mproject" target="1.8" />
+      <module name="mservice" target="1.8" />
+      <module name="pojo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+技术：
+搭建多模块maven聚合工程
+配置maven模块之间的依赖（由下而上）（用idea的maven窗口可视化地查看模块依赖）
+maven-install：：打包安装在本地仓库，以供其它模块install使用，聚合父工程install时，子模块都会install

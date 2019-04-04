@@ -1,0 +1,2 @@
+技术：
+mybatis-plus：：@TableName，@TableField用法

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mgenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mmapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pojo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

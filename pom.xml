@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.yyy</groupId><!--notes：maven中，这三点确定一个坐标-->
+    <artifactId>mproject</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>参考工程</name>
+    <description>
+        常用的功能模块的集合，工具类函数集合等，以供参考
+    </description>
+
+    <parent><!--notes：maven的继承-->
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.12.RELEASE</version>
+        <relativePath/>
+    </parent>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <modules><!--notes：配置聚合工程包含的模块！-->
+        <module>mservice</module>
+        <module>mpojo</module>
+        <module>mcommon</module>
+        <module>mapi</module>
+        <module>mmapper</module>
+    </modules>
+
+    <packaging>pom</packaging><!--notes：聚合工程的packaging是pom！-->
+
+
+</project>
